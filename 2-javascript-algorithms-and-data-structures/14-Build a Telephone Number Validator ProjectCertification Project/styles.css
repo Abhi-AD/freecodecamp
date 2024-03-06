@@ -1,0 +1,27 @@
+body {
+     font-family: Arial, sans-serif;
+   }
+   
+   .container {
+     max-width: 600px;
+     margin: 50px auto;
+     text-align: center;
+   }
+   
+   input[type="text"] {
+     padding: 10px;
+     font-size: 16px;
+     margin-right: 10px;
+   }
+   
+   button {
+     padding: 10px 20px;
+     font-size: 16px;
+     cursor: pointer;
+   }
+   
+   #results-div {
+     margin-top: 20px;
+     font-size: 18px;
+   }
+   
