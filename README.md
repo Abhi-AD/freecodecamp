@@ -39,7 +39,7 @@ To get started with the FreeCodeCamp project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/freecodecamp.git
+   git clone https://github.com/Abhi-AD/freecodecamp.git
    ```
 2. Navigate to the project directory:
 
