@@ -1,6 +1,4 @@
 ## Hello Everyone!
-
-
 ## Welcome to FreeCodeCamp Course 
 
 Welcome to the **FreeCodeCamp** project! This repository is dedicated to helping learners and developers build projects and share knowledge through coding.
